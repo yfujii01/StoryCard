@@ -5,3 +5,6 @@
 
 http://icooon-mono.com/
 
+プレビュー(一般公開)
+
+https://yfujii01.github.io/StoryCard/
